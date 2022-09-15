@@ -1,0 +1,3 @@
+# ms-course-configs
+
+CONFIGURATION
